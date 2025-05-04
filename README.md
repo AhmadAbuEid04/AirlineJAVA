@@ -1,0 +1,1 @@
+This project is an airline reservation system in java, it's part of an OOP course that I took in college, but it has potential to look great on me resume lol. It is still in progress. My vision for it is to get it to fully function, then add a user interface using JavaFX. Wish me luck and if you feel helpful leave you  comments on my code!!
